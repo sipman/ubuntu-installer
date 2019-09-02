@@ -1,0 +1,7 @@
+curl
+gcc
+vlc
+gnome-tweak-tool
+lastpass-cli
+xclip
+xsel
